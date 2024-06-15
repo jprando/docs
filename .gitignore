@@ -1,4 +1,5 @@
 # Nuxt dev/build outputs
+.nuxtrc
 .output
 .data
 .nuxt
@@ -25,3 +26,9 @@ logs
 
 # VSC
 .history
+
+# arquivos que devem permanecer somente na maquina local
+*.local
+
+# outros
+bun.lockb
