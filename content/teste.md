@@ -1,6 +1,6 @@
 ---
-title: 'testando titulo...'
-description: 'testando descricao...'
+title: testando titulo...
+description: testando descricao...
 ---
 
 inicio da pagina
@@ -9,12 +9,10 @@ inicio da pagina
 ---
 mensagem: prop mensagem tah funcionando!!
 ---
-
 #actions
-::u-button
-botao no slot actions
-::
-
+  :::u-button
+  botao no slot actions
+  :::
 ::
 
 fim pagina
