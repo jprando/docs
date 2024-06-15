@@ -1,7 +1,7 @@
 export default defineAppConfig({
   ui: {
     primary: 'green',
-    gray: 'slate',
+    gray: 'neutral',
     footer: {
       bottom: {
         left: 'text-sm text-gray-500 dark:text-gray-400',
@@ -10,11 +10,11 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt UI Pro - Docs template'
+    siteName: 'Jeudi Prando - Dev'
   },
   header: {
     logo: {
-      alt: '',
+      alt: 'Jeudi Prando - Dev',
       light: '',
       dark: ''
     },
@@ -28,7 +28,7 @@ export default defineAppConfig({
     }]
   },
   footer: {
-    credits: 'Copyright © 2023',
+    credits: 'Resolvendo problemas com Javascript - 2023',
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-nuxtdotjs',
